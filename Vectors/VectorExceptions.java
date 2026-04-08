@@ -1,3 +1,4 @@
+package Vectors;
 // Custom Exception for Invalid Dimension
 class InvalidDimensionException extends Exception {
     public InvalidDimensionException(String message) {
